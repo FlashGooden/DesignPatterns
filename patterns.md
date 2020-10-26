@@ -2,11 +2,13 @@ This repo will serve as a javascript implementation of design patterns. I'm writ
 
 # Patterns Covered:
 
+## creational patterns
 - Abstract Factory
 - Builder
 - Factory
 - Prototype
 - Singleton
+## Structural patterns
 - Adapter
 - Bridge
 - Composite 
@@ -14,6 +16,7 @@ This repo will serve as a javascript implementation of design patterns. I'm writ
 - Facade
 - Flyweight
 - Proxy
+## Behavioral Patterns
 - Chain of Resp.
 - Command
 - Interpreter
