@@ -12,7 +12,7 @@ const log = (function () {
       },
    };
 })();
-
+//test
 class Employee {
    constructor(name) {
       this.name = name;
