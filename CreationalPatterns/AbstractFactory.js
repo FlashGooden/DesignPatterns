@@ -45,7 +45,7 @@ class VendorFactory {
    };
 }
 
-const run = () => {
+const runLog = () => {
    const persons = [];
    const employeeFactory = new EmployeeFactory()
    const vendorFactory = new VendorFactory()
@@ -62,4 +62,4 @@ const run = () => {
    log.show()
 };
 
-run()
+runLog()
