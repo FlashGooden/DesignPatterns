@@ -56,7 +56,7 @@ function run () {
   shipping = new Shipping
 
   const log = (function () {
-   var log = "mooo";
+   var log = "";
   console.log(log, 'this is the log')
    return {
       add: function (msg) {
